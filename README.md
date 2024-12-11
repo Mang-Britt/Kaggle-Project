@@ -1,5 +1,5 @@
 # Predict Student Performance from Game Play
-  This repository holds an attempt to predict whether a future user will answer quesions correctly
+  This repository holds an attempt to predict whether a future user will answer questions correctly
 
 # Overview
   When given data about the state of the game, along with if the correct answers were given over multiple sessions, the goal was
