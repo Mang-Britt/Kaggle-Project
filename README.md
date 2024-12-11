@@ -39,3 +39,9 @@
 
   This used a Gradient Boosted Tree Model as it seemed best for prediction type functions.
   Searches led to using TensorFlow to work with the model but later on came to find that one of the tools needed was no longer supported so SciKit was also used.
+
+# Import
+  NumPy
+  TensorFlow
+  SciKit
+  
